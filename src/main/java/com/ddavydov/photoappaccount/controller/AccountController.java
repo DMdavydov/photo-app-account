@@ -1,4 +1,4 @@
-package com.ddavydov.bugtrackeraccount.controller;
+package com.ddavydov.photoappaccount.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
